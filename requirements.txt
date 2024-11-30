@@ -1,9 +1,8 @@
-streamlit==1.35.0  # Replace with your version
-yfinance==0.2.40  # Replace with your version
-pandas==2.2.2  # Replace with your version
-numpy==1.25.0  # Replace with your version
+numpy==1.25.0
+pandas==2.2.3
 plotly==5.22.0
-plotly-express==0.4.1  # Replace with your version
-requests==2.31.0  # Replace with your version
-textblob==0.18.0.post0  # Replace with your version
-scikit-learn==1.5.0  # Replace with your version
+Requests==2.32.3
+scikit_learn==1.5.2
+streamlit==1.35.0
+textblob==0.18.0.post0
+yfinance==0.2.40
